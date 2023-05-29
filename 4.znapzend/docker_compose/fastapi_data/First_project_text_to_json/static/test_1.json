@@ -1,0 +1,24 @@
+{ "items": [
+  {
+    "previous_connection" : "true",
+    "limit_good" : "true",
+    "time" : "40",
+    "prevt" : "missing",
+    "prevc" : "missing",
+    "end" : "true",
+    "class" : "minutes",
+    "src" : "test_pool/data",
+    "tag" : "Duration"
+  },
+  {
+    "previous_good" : "true",
+    "prevt" : "40",
+    "limit_good" : "true",
+    "time" : "1",
+    "prevc" : "minutes",
+    "end" : "true",
+    "class" : "minute",
+    "src" : "test_pool/data",
+    "tag" : "Timeline"
+  }
+]}

@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=mLbtJQmfumI
+Open-ZFS Bootcamp
+ 
+https://docs.oracle.com/cd/E19253-01/819-5461/gbinw/index.html
+Documentation Home  > Oracle Solaris ZFS Administration Guide  > Chapter 7 Working With Oracle Solaris ZFS Snapshots and Clones  > Sending and Receiving ZFS Data  > Sending a ZFS Snapshot
+
+https://github.com/jimsalterjrs/sanoid
+
+https://go.oracle.com/LP=998/?elqCampaignId=1810
+Oracle ZFS Storage Appliance Simulator
+
+https://openzfs.github.io/openzfs-docs/man/8/zpool-create.8.html
+https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/

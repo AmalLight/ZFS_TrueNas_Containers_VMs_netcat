@@ -1,0 +1,20 @@
+enabled=on
+mbuffer=off
+mbuffer_size=1G
+post_znap_cmd=off
+pre_znap_cmd=off
+recursive=on
+src=test_pool/data
+src_plan=40minute=>1minute
+tsformat=auto-%Y%m%d-%H%M%S
+zend_delay=0
+
+# znapzendzetup import --write test_pool/data test.txt
+
+# https://github.com/oetiker/znapzend/blob/master/doc/znapzendzetup.pod
+
+# znapzend --noaction --debug --runonce=test_pool/data
+
+# znapzend --daemonize
+
+# https://github.com/oetiker/znapzend

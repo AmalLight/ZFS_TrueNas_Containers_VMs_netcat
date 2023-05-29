@@ -1,0 +1,4 @@
+https://github.com/AmalLight/ZFS_TrueNas_Containers_VMs_netcat/tree/main/4.znapzend/docker_compose/fastapi_data
+
+First_project_text_to_json
+groupby

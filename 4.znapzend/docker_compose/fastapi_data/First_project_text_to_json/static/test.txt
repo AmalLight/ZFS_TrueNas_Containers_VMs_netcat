@@ -1,0 +1,10 @@
+enabled=on
+mbuffer=off
+mbuffer_size=1G
+post_znap_cmd=off
+pre_znap_cmd=off
+recursive=on
+src=test_pool/data
+src_plan=40minute=>1minute,30minute=>15minute
+tsformat=auto-%Y%m%d-%H%M%S
+zend_delay=0

@@ -1,0 +1,8 @@
+postgres_fastapi_data/*
+pgadmin_data/*
+*/__pycache__
+*/*/__pycache__
+*/.pytest_cache
+*/*/.pytest_cache
+*/First_project_text_to_json/deps
+*/groupby/deps
